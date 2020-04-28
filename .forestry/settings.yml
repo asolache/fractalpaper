@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ''
   label: Valores
-  match: "**/*"
 - type: heading
   label: Menu
 upload_dir: static/uploads
