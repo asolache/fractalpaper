@@ -5,8 +5,12 @@ title = "Sawmill"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
+name = "Disco Manifesto"
+url = "https://disco.coop/manifesto/"
+weight = 2
+[[menu.main]]
 name = "View on Github"
-url = "https://github.com/dwalkr/sawmill"
-weight = 10
+url = "https://github.com/asolache/fractalpaper"
+weight = 1
 [params]
 logo = "/logo.svg"
