@@ -5,6 +5,10 @@ title = "Sawmill"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
+name = "Fairshares Model"
+url = "https://www.fairshares.coop"
+weight = 3
+[[menu.main]]
 name = "Disco Manifesto"
 url = "https://disco.coop/manifesto/"
 weight = 2
